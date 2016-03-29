@@ -1,0 +1,317 @@
+[
+{
+	"_id" : "ObjectId('56f3946b3f1b41477570cca9')",
+	"_created" : "ISODate('2016-03-24T06:10:39.678Z')",
+	"_updated" : "ISODate('2016-03-24T07:16:59.322Z')",
+	"honorary" : false,
+	"status" : "Active",
+	"isCoder" : true,
+	"isAdjudicator" : true,
+	"name" : "Dr.D V Bala",
+	"email" : "dvbalar@gmail.com",
+	"__v" : 0,
+	"study" : "anandcod",
+	"phase" : "anand",
+	"physicianId" : "56f384dfc4567f6e737f99cf",
+	"scripts" : [
+		"Latin"
+	],
+	"languages" : [
+		"English"
+	]
+}
+{
+	"_id" : "ObjectId('56f3946b3f1b41477570cca5')",
+	"_created" : "ISODate('2016-03-24T06:11:31.005Z')",
+	"_updated" : "ISODate('2016-03-24T07:16:59.317Z')",
+	"honorary" : false,
+	"status" : "Active",
+	"isCoder" : true,
+	"isAdjudicator" : true,
+	"name" : "Kumar Dinesh",
+	"email" : "drdineshkl@charutarhealth.org",
+	"__v" : 0,
+	"study" : "anandcod",
+	"phase" : "anand",
+	"physicianId" : "56f38513c4567f6e737f99d2",
+	"scripts" : [
+		"Latin"
+	],
+	"languages" : [
+		"English"
+	]
+}
+{
+	"_id" : "ObjectId('56f3946b3f1b41477570cca3')",
+	"_created" : "ISODate('2016-03-24T06:12:03.772Z')",
+	"_updated" : "ISODate('2016-03-24T07:16:59.314Z')",
+	"honorary" : false,
+	"status" : "Active",
+	"isCoder" : true,
+	"isAdjudicator" : true,
+	"name" : "OZA Umesh",
+	"email" : "dr_umeshoza@yahoo.com",
+	"__v" : 0,
+	"study" : "anandcod",
+	"phase" : "anand",
+	"physicianId" : "56f38533c4567f6e737f99d4",
+	"scripts" : [
+		"Latin"
+	],
+	"languages" : [
+		"English"
+	]
+}
+{
+	"_id" : "ObjectId('56f3946b3f1b41477570cca7')",
+	"_created" : "ISODate('2016-03-24T06:12:27.974Z')",
+	"_updated" : "ISODate('2016-03-24T07:16:59.319Z')",
+	"honorary" : false,
+	"status" : "Active",
+	"isCoder" : true,
+	"isAdjudicator" : false,
+	"name" : "Patel Prakash",
+	"email" : "drpbpatel@gmail.com",
+	"__v" : 0,
+	"study" : "anandcod",
+	"phase" : "anand",
+	"physicianId" : "56f3854bc4567f6e737f99d6",
+	"scripts" : [
+		"Latin"
+	],
+	"languages" : [
+		"English"
+	]
+}
+{
+	"_id" : "ObjectId('56f3946b3f1b41477570cca2')",
+	"_created" : "ISODate('2016-03-24T06:12:45.587Z')",
+	"_updated" : "ISODate('2016-03-24T07:16:59.313Z')",
+	"honorary" : false,
+	"status" : "Active",
+	"isCoder" : true,
+	"isAdjudicator" : false,
+	"name" : "Sharma Dharmesh Kumar",
+	"email" : "dr.dharmesh2008@gmail.com",
+	"__v" : 0,
+	"study" : "anandcod",
+	"phase" : "anand",
+	"physicianId" : "56f3855dc4567f6e737f99d8",
+	"scripts" : [
+		"Latin"
+	],
+	"languages" : [
+		"English"
+	]
+}
+{
+	"_id" : "ObjectId('56f3946b3f1b41477570ccaa')",
+	"_created" : "ISODate('2016-03-24T06:13:03.125Z')",
+	"_updated" : "ISODate('2016-03-24T07:16:59.323Z')",
+	"honorary" : false,
+	"status" : "Active",
+	"isCoder" : true,
+	"isAdjudicator" : true,
+	"name" : "Sheth Jay",
+	"email" : "jayksheth@yahoo.com",
+	"__v" : 0,
+	"study" : "anandcod",
+	"phase" : "anand",
+	"physicianId" : "56f3856fc4567f6e737f99da",
+	"scripts" : [
+		"Latin"
+	],
+	"languages" : [
+		"English"
+	]
+}
+{
+	"_id" : "ObjectId('56f3946b3f1b41477570ccad')",
+	"_created" : "ISODate('2016-03-24T06:13:31.290Z')",
+	"_updated" : "ISODate('2016-03-24T07:16:59.326Z')",
+	"honorary" : false,
+	"status" : "Active",
+	"isCoder" : true,
+	"isAdjudicator" : true,
+	"name" : "Hitendrasinh Thakor",
+	"email" : "thakorhg@gmail.com",
+	"__v" : 0,
+	"study" : "anandcod",
+	"phase" : "anand",
+	"physicianId" : "56f3858bc4567f6e737f99de",
+	"scripts" : [
+		"Latin"
+	],
+	"languages" : [
+		"English"
+	]
+}
+{
+	"_id" : "ObjectId('56f3946b3f1b41477570cca4')",
+	"_created" : "ISODate('2016-03-24T06:13:46.630Z')",
+	"_updated" : "ISODate('2016-03-24T07:16:59.315Z')",
+	"honorary" : false,
+	"status" : "Active",
+	"isCoder" : true,
+	"isAdjudicator" : false,
+	"name" : "Chintan Solanki",
+	"email" : "drchintansolanki@yahoo.co.in",
+	"__v" : 0,
+	"study" : "anandcod",
+	"phase" : "anand",
+	"physicianId" : "56f3859ac4567f6e737f99e0",
+	"scripts" : [
+		"Latin"
+	],
+	"languages" : [
+		"English"
+	]
+}
+{
+	"_id" : "ObjectId('56f3946b3f1b41477570cca6')",
+	"_created" : "ISODate('2016-03-24T06:14:00.757Z')",
+	"_updated" : "ISODate('2016-03-24T07:16:59.318Z')",
+	"honorary" : false,
+	"status" : "Active",
+	"isCoder" : true,
+	"isAdjudicator" : false,
+	"name" : "Nilesh Fichadiya",
+	"email" : "drfichadiya@gmail.com",
+	"__v" : 0,
+	"study" : "anandcod",
+	"phase" : "anand",
+	"physicianId" : "56f385a8c4567f6e737f99e4",
+	"scripts" : [
+		"Latin"
+	],
+	"languages" : [
+		"English"
+	]
+}
+{
+	"_id" : "ObjectId('56f3946b3f1b41477570cca8')",
+	"_created" : "ISODate('2016-03-24T06:14:12.801Z')",
+	"_updated" : "ISODate('2016-03-24T07:16:59.320Z')",
+	"honorary" : false,
+	"status" : "Active",
+	"isCoder" : true,
+	"isAdjudicator" : false,
+	"name" : "Prakash Rana",
+	"email" : "drprakashrana10789@gmail.com",
+	"__v" : 0,
+	"study" : "anandcod",
+	"phase" : "anand",
+	"physicianId" : "56f385b4c4567f6e737f99e6",
+	"scripts" : [
+		"Latin"
+	],
+	"languages" : [
+		"English"
+	]
+}
+{
+	"_id" : "ObjectId('56f3946b3f1b41477570ccab')",
+	"_created" : "ISODate('2016-03-24T06:14:27.250Z')",
+	"_updated" : "ISODate('2016-03-24T07:16:59.324Z')",
+	"honorary" : false,
+	"status" : "Active",
+	"isCoder" : true,
+	"isAdjudicator" : false,
+	"name" : "Kedar Mehta",
+	"email" : "kedar_mehta20@yahoo.co.in",
+	"__v" : 0,
+	"study" : "anandcod",
+	"phase" : "anand",
+	"physicianId" : "56f385c3c4567f6e737f99e8",
+	"scripts" : [
+		"Latin"
+	],
+	"languages" : [
+		"English"
+	]
+}
+{
+	"_id" : "ObjectId('56f3946b3f1b41477570cc9f')",
+	"_created" : "ISODate('2016-03-24T06:14:38.514Z')",
+	"_updated" : "ISODate('2016-03-24T07:16:59.307Z')",
+	"honorary" : false,
+	"status" : "Active",
+	"isCoder" : true,
+	"isAdjudicator" : false,
+	"name" : "Arpit Prajapati",
+	"email" : "arpit4frds@yahoo.co.in",
+	"__v" : 0,
+	"study" : "anandcod",
+	"phase" : "anand",
+	"physicianId" : "56f385cec4567f6e737f99ea",
+	"scripts" : [
+		"Latin"
+	],
+	"languages" : [
+		"English"
+	]
+}
+{
+	"_id" : "ObjectId('56f3946b3f1b41477570ccac')",
+	"_created" : "ISODate('2016-03-24T06:14:53.143Z')",
+	"_updated" : "ISODate('2016-03-24T07:16:59.325Z')",
+	"honorary" : false,
+	"status" : "Active",
+	"isCoder" : true,
+	"isAdjudicator" : false,
+	"name" : "Mihir Rupani",
+	"email" : "mihirrupani@yahoo.com",
+	"__v" : 0,
+	"study" : "anandcod",
+	"phase" : "anand",
+	"physicianId" : "56f385ddc4567f6e737f99ec",
+	"scripts" : [
+		"Latin"
+	],
+	"languages" : [
+		"English"
+	]
+}
+{
+	"_id" : "ObjectId('56f3946b3f1b41477570cca1')",
+	"_created" : "ISODate('2016-03-24T06:15:05.453Z')",
+	"_updated" : "ISODate('2016-03-24T07:16:59.312Z')",
+	"honorary" : false,
+	"status" : "Active",
+	"isCoder" : true,
+	"isAdjudicator" : false,
+	"name" : "Donald Christian",
+	"email" : "donald_christian2002@yahoo.com",
+	"__v" : 0,
+	"study" : "anandcod",
+	"phase" : "anand",
+	"physicianId" : "56f385e9c4567f6e737f99ee",
+	"scripts" : [
+		"Latin"
+	],
+	"languages" : [
+		"English"
+	]
+}
+{
+	"_id" : "ObjectId('56f3946b3f1b41477570cca0')",
+	"_created" : "ISODate('2016-03-24T06:15:20.444Z')",
+	"_updated" : "ISODate('2016-03-24T07:16:59.309Z')",
+	"honorary" : false,
+	"status" : "Active",
+	"isCoder" : true,
+	"isAdjudicator" : false,
+	"name" : "BL Tanan",
+	"email" : "bazel9@gmail.com",
+	"__v" : 0,
+	"study" : "anandcod",
+	"phase" : "anand",
+	"physicianId" : "56f385f8c4567f6e737f99f0",
+	"scripts" : [
+		"Latin"
+	],
+	"languages" : [
+		"English"
+	]
+}
+]
